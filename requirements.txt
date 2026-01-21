@@ -1,0 +1,15 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+xgboost
+catboost
+openmeteo-requests
+requests-cache
+retry-requests
+geemap
+earthengine-api
+dill
+flask
+-e .

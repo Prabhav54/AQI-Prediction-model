@@ -1,0 +1,7 @@
+README.md
+setup.py
+aqi_virtual_sensor.egg-info/PKG-INFO
+aqi_virtual_sensor.egg-info/SOURCES.txt
+aqi_virtual_sensor.egg-info/dependency_links.txt
+aqi_virtual_sensor.egg-info/requires.txt
+aqi_virtual_sensor.egg-info/top_level.txt

@@ -1,0 +1,22 @@
+Metadata-Version: 2.4
+Name: aqi-virtual-sensor
+Version: 0.0.1
+Author: Prabhav Khare
+Author-email: prabhavkhare54@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: xgboost
+Requires-Dist: catboost
+Requires-Dist: openmeteo-requests
+Requires-Dist: requests-cache
+Requires-Dist: retry-requests
+Requires-Dist: geemap
+Requires-Dist: earthengine-api
+Requires-Dist: dill
+Requires-Dist: flask
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
